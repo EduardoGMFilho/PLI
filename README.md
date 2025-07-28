@@ -76,3 +76,5 @@ Durante a resolução dos problemas, foram aplicadas e aprimoradas as seguintes 
 - **Solver:** CBC (Coin-or Branch and Cut)
 
 
+
+Referências: https://sites.google.com/view/po-ufpb/in%C3%ADcio?authuser=0
